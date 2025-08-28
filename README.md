@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @durgesh0720
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Durgesh (@durgesh0720)
 
-<!---
-durgesh0720/durgesh0720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Aspiring Software Engineer | Full-Stack Developer | Tech Explorer**  
+
+---
+
+### 👀 About Me
+- 💡 Passionate about **building web applications**, **system development**, and **problem solving**.  
+- 🌱 Currently learning **Django + React**, **C for system-level programming**, and **Node.js backend development**.  
+- 💞️ Looking to collaborate on **open-source projects**, **web apps**, and **innovative startups**.  
+- ⚡ Fun fact: I can debug faster with chai ☕ in hand!  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C, JavaScript, Java  
+- **Frontend:** HTML, CSS, Tailwind, React.js, Next.js  
+- **Backend:** Django, Node.js, Express.js  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Tools:** Git, Docker, Vite, VS Code  
+
+---
+
+### 📊 GitHub Stats
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh0720&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh0720&layout=compact&theme=radical)  
+
+---
+
+### 📫 How to reach me
+- 📧 Email: **yourmail@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/durgesh0720](https://linkedin.com/in/durgesh0720)  
+- 🌐 Portfolio Website: *Coming soon...*  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  

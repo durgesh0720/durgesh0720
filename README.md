@@ -28,7 +28,7 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: **yourmail@example.com**  
+- 📧 Email: **durgesh.kumar.0704.02@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/durgesh0720](https://linkedin.com/in/durgesh0720)  
 - 🌐 Portfolio Website: *Coming soon...*  
 

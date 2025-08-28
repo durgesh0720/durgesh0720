@@ -1,8 +1,3 @@
-<!-- Banner -->
-![GitHub Banner](https://raw.githubusercontent.com/durgesh0720/durgesh0720/main/ChatGPT%20Image%20Aug%2028%2C%202025%2C%2008_47_18%20PM.png)
-
-
-
 # 👋 Hi, I’m Durgesh (@durgesh0720)  
 
 <p align="center">

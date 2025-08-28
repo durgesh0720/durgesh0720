@@ -1,5 +1,5 @@
 <!-- Banner -->
-![GitHub Banner](https://raw.githubusercontent.com/durgesh0720/durgesh0720/main/banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/durgesh0720/durgesh0720/main/ChatGPT Image Aug 28, 2025, 08_47_18 PM.png)
 
 
 # 👋 Hi, I’m Durgesh (@durgesh0720)  

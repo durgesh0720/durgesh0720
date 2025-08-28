@@ -1,5 +1,6 @@
 <!-- Banner -->
-![GitHub Banner](https://i.ibb.co/4RKsVqn/github-banner.png)
+![GitHub Banner](https://raw.githubusercontent.com/durgesh0720/durgesh0720/main/banner.png)
+
 
 # 👋 Hi, I’m Durgesh (@durgesh0720)  
 
